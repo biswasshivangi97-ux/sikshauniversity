@@ -1,0 +1,50 @@
+body
+{
+   margin:0;
+   background-image:url("w1.jpg");
+   background-size:cover;
+   background-repeat:no-repeat;
+   background-position:center;
+}
+h1
+{
+    font-size:100px;
+    color:Red;
+    text-align:center;
+}
+*
+{
+   margin:0;
+}
+nav
+{
+   background-color:green;
+   height:60px;
+}
+nav ul 
+{
+   list-style:none;
+}
+nav ul li
+{
+   display:inline-block;
+   color:yellow;
+}
+nav ul li a
+{
+   color:white;
+   text-decoration:none;
+   padding:20px 25px;
+   display:block;
+   font-size:18px;
+   
+}
+nav ul li a:hover
+{
+   background-color:orange;
+}
+table
+{
+    margin-left:250;
+}
+   
